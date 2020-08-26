@@ -2,7 +2,13 @@ import React from 'react'
 import './ContactStyles.css'
 
 const Contact = () => {
-    return null
+    return (
+        <>
+            <div className="Contact">
+            </div>
+        </>
+    )
+
 }
 
 export default Contact

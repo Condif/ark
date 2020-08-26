@@ -2,7 +2,13 @@ import React from 'react'
 import './ProductGridStyles.css'
 
 const ProductGrid = () => {
-    return null
+    return (
+        <>
+            <div className="ProductGrid">
+                
+            </div>
+        </>
+    )
 }
 
 export default ProductGrid

@@ -1,0 +1,11 @@
+* {
+    font-family: "acumin-pro", sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+.Header {
+    background-color: rgb(48, 39, 133);
+    height: 37.5rem;
+    border: solid red 2px;
+}

@@ -5,7 +5,7 @@
 }
 
 .Navbar {
-    background-color: rgb(139, 195, 74);
-    height: 80px;
-    
+    background-color: rgb(39, 133, 77);
+    height: 5rem;
+    border: solid red 2px;
 }
