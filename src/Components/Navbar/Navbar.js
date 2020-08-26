@@ -1,7 +1,14 @@
 import React from 'react'
+import './NavbarStyles.css'
 
 const Navbar = () => {
-    return null
+    return (
+        <>
+            <div className="Navbar">
+
+            </div>
+        </>
+    )
 }
 
 export default Navbar

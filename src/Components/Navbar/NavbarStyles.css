@@ -1,0 +1,11 @@
+* {
+    font-family: "acumin-pro", sans-serif;
+    font-style: bold;
+    font-weight: 100;
+}
+
+.Navbar {
+    background-color: rgb(139, 195, 74);
+    height: 80px;
+    
+}
