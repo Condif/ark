@@ -5,7 +5,10 @@ const Header = () => {
     return (
         <>
             <div className="Header">
-                <div className="Lego_bg"></div>
+                <div className="Lego_bg">
+                    <h1 class="Headline" >Experience lego's!</h1>
+                </div>
+                
             </div>
         </>
     )
