@@ -35,7 +35,6 @@
 }
 
 img.Lego_ship, img.Monster_truck {
-    border: solid rgb(39 133 77) 0.3rem;
     margin: 1.5rem;
     height: 20rem;
     width: 30rem;
@@ -70,7 +69,6 @@ div.Picture_container {
     }
   }
 
-  /* For iphone: */
 @media screen and (max-width : 340px){
     .Price {
         font-size: 0.6875rem;
