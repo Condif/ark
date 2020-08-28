@@ -46,3 +46,12 @@
     font-size: 1.125rem;
     font-weight: bold;
 }
+
+@media screen and (max-width : 340px){
+    .menu {
+        justify-content: center;
+    }
+    .Logo {
+        margin-left: 6rem;
+    }
+} 
