@@ -14,7 +14,7 @@ const Presentation = () => {
 
     Curabitur orci metus, sagittis eu sollicitudin eu, sagittis a mi. Phasellus faucibus vulputate varius. Cras a turpis a nisl vulputate dapibus nec at augue. Aliquam vitae nulla est. Aenean ex magna, egestas vel eros id, tempor aliquet magna. Duis vel augue quis tellus luctus sollicitudin. Morbi ac risus augue. Nulla volutpat nunc lectus, ut malesuada lorem varius eu.
 
-    Fusce quis pellentesque odio. Integer hendrerit nisl eu condimentum vehicula. Donec luctus sem quam, eget viverra leo tristique nec. Nullam a turpis eget purus imperdiet auctor. Ut lacinia congue ipsum id egestas. Ut a turpis gravida, hendrerit massa placerat, vulputate augue. Nunc consequat eros velit, id congue enim ultricies eget. Integer fringilla sapien vitae vulputate placerat. Nullam id dolor ut arcu laoreet molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et sapien lectus.</p>
+    Fusce quis pellentesque odio. Integer hendrerit nisl eu condimentum vehicula. Donec luctus sem quam, eget viverra leo tristique nec.</p>
                 </div>
             </div>
         </>
