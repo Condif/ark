@@ -8,9 +8,10 @@
 
 .Paper {
     background-color: white;
-    height: 30rem;
     width: 90%;
-    margin-top: 5rem;
+    max-width: 90rem;
+    margin: 5rem 0 2.5rem 0;
+    padding-bottom: 2.5rem;
     text-align: center;
 }
 
@@ -22,7 +23,17 @@
 }
 
 .Presentation_text {
-    font-size: 11px;
+    font-size: 1.125rem;
     margin-left: 2rem;
     margin-right: 2rem;
 }
+
+
+@media (max-width: 767px) {
+    h1.Headline  {
+        font-size: 1.8125rem;
+    }
+    .Presentation_text {
+        font-size: 0.6875rem;
+    }
+  }
