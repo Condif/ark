@@ -6,7 +6,7 @@ const Header = () => {
         <>
             <div className="Header">
                 <div className="Lego_bg">
-                    <h1 class="Headline" >Experience lego's!</h1>
+                    <h1 className="Headline" >Experience lego's!</h1>
                 </div>
                 
             </div>
