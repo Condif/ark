@@ -32,3 +32,18 @@ h1.Headline {
   font-size: 2.90625rem;
   white-space: nowrap;
 }
+
+
+@media screen and (max-width: 767px) {
+    h1.Headline  {
+        font-size: 1.8125rem;
+    }
+  }
+
+
+/* For iphone: */
+@media screen and (max-width : 340px){
+    h1.Headline  {
+        font-size: 1.6125rem;
+    }
+} 
