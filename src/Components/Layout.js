@@ -4,6 +4,7 @@ import Header from "./Header/Header";
 import ProductGrid from "./ProductGrid/ProductGrid";
 import Contact from "./Contact/Contact";
 import Footer from "./Footer/Footer";
+import Presentation from "./Presentation/Presentation";
 
 
 const Layout = () => {
@@ -11,6 +12,7 @@ const Layout = () => {
         <>
             <Navbar/>
             <Header/>
+            <Presentation/>
             <ProductGrid/>
             <Contact/>
             <Footer/>
