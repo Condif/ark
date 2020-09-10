@@ -10,18 +10,18 @@
     width: 100%; 
     background-color: rgb(39, 133, 77);
     height: 5rem;
+    
 }
 
 .menu {
     position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 5rem;
     width: 100%;
     max-width: 90rem;
+    
 }
 
 .Logo {
@@ -31,6 +31,7 @@
 
 .menu_right {
     margin-right: 5rem;
+    height: 100%;
 }
 
 .menu_list {
