@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar from "./Navbar/Navbar";
-import Header from "./Header/Header";
-import ProductGrid from "./ProductGrid/ProductGrid";
-import Contact from "./Contact/Contact";
-import Footer from "./Footer/Footer";
-import Presentation from "./Presentation/Presentation";
+import Navbar from "./Navbar/navbar";
+import Header from "./Header/header";
+import ProductGrid from "./ProductGrid/productGrid";
+import Contact from "./Contact/contact";
+import Footer from "./Footer/footer";
+import Presentation from "./Presentation/presentation";
 
 
 const Layout = () => {
